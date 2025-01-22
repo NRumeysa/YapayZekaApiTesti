@@ -4,7 +4,7 @@ Bu proje, ReqRes API'sini test etmek için oluşturulmuş bir API test otomasyon
 
 ## Technologies Used
 
-- Java 11
+- Java 23
 - Maven
 - Cucumber
 - REST Assured
@@ -65,7 +65,7 @@ Proje aşağıdaki API işlemleri için test senaryolarını içerir:
    ```
 
 3. Aşağıdaki yazılımların yüklü olduğundan emin olun:
-   - Java JDK 11 veya üzeri
+   - Java JDK 23 veya üzeri
    - Maven
    - Chrome tarayıcı (Selenium WebDriver testleri için)
 
