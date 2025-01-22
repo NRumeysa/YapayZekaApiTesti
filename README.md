@@ -93,6 +93,29 @@ Testlerin çalıştırılmasının ardından raporları aşağıdaki yerlerde bu
 - `src/test/resources/junit-platform.properties`: JUnit yapılandırması
 - Base URL ve diğer API yapılandırmaları `BasePage.java` dosyasında bulunabilir
 
+## 🤖 AI-Powered Development
+
+This project showcases the power of AI-assisted development using cutting-edge tools:
+
+### Development Process
+
+This project was developed using Windsurf IDE's AI capabilities, specifically leveraging Cursor's advanced AI pair programming features. The development process was a collaborative effort between human creativity and artificial intelligence, demonstrating how modern AI tools can enhance software development workflows.
+
+### AI Tools Used
+
+- **Windsurf IDE**: A next-generation integrated development environment that seamlessly integrates AI capabilities
+- **Cursor**: An AI-powered coding assistant that provided intelligent suggestions and helped maintain code quality
+- **AI Flow**: A revolutionary paradigm that enables natural conversation-based development
+
+### Benefits of AI-Assisted Development
+
+- **Accelerated Development**: AI assistance significantly speed up the development process
+- **Best Practices**: Automated suggestions for following industry best practices and design patterns
+- **Code Quality**: Enhanced code quality through AI-powered code reviews and suggestions
+- **Learning Opportunity**: Great example of how AI can be leveraged in modern software development
+
+This project serves as a practical demonstration of how AI tools can be effectively integrated into the software development lifecycle, making the process more efficient while maintaining high code quality standards.
+
 ## Katkıda Bulunma
 
 1. Deposunu forklayın
